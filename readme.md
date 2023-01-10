@@ -1,3 +1,4 @@
+"To be continued..."
 ### 评估
 [![vicaelae's github stats](https://github-readme-stats.vercel.app/api?username=vicaelae)](https://github.com/mango-lzp/github-readme-stats)
 <br>
@@ -11,5 +12,5 @@
 
 ### 使用语言
 <br>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicaelae">
-"To be continued..."
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicaelae">
+<br>
